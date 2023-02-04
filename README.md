@@ -8,7 +8,7 @@ I am a driven and motivated student with a passion for technology and its applic
 
 My areas of expertise and interest include system and network infrastructure, virtualization, cloud infrastructure, and backend development, databases, and containerization. I have already gained a significant amount of knowledge and experience in these areas through my previous academic pursuits and am always seeking new opportunities to continue my growth and development.
 
-### Currently study topics
+### Current study topics
 - Azure
 - AWS
 - ASP.NET Core
