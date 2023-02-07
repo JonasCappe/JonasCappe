@@ -12,6 +12,28 @@ My areas of expertise and interest include system and network infrastructure, vi
 - PostgreSQL
 - ASP.NET Core
 - Docker & kubernetes
+### Knowledge
+<div>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cisco.svg' alt='Cisco' height='65' title='Cisco CLI'>
+
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg' alt='Linux' height='65' title='Linux'>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/windows.svg' alt='Windows' height='65' title='Microsoft Windows & Microsoft Windows Server'>
+
+</div>
+<div>
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg' alt='C#' height='65' title='C#'>
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='Java' height='65' title='Java'>
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg' alt='MySQL' height='65' title='MySQL'>
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftsqlserver.svg' alt='SQL' height='65' title='MicrosoftSQLServer'>
+</div>
+<div>
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftazure.svg' alt='Microsoft Azure (basics)' height='65' title='Microsoft Azure (basics)'>
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/amazonaws.svg' alt='Amazon Web Services (basics)' height='65' title='Amazon Web Services (basics)'>
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ansible.svg' alt='Anisble' height='65' title='Ansible'>
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gnubash.svg' alt='Bash scripting' height='65' title='Bash scripting'>
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/powershell.svg' alt='Powershell' height='65' title='Powershell'>
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vmware.svg' alt='VMWare' height='65' title='VMWare'>
+</div>
 
 ### You can also find me on:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jonas-cap/)
@@ -25,7 +47,5 @@ My areas of expertise and interest include system and network infrastructure, vi
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasCappe)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonascap98)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 <!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JonasCappe)-->
