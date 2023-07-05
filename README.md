@@ -4,7 +4,7 @@
 
 ![MCT@Howest](https://media.discordapp.net/attachments/1039106944318836796/1039457443752722452/Howest-logo-mct.png)
 
-I am a driven and motivated student with a passion for technology and its applications. I hold an Associate Degree in Informatica - Systeem -en netwerkbeheer and have completed my first year, as well as more than half of my second and third years, in a professional Bachelors degree with a major in Applied Computer Science and a minor in Cyber Security. I am currently pursuing a Bachelors degree in Media and Creative Technology with a minor in IoT infrastructure engineering.
+I am a driven and motivated student with a passion for technology. I hold an Associate Degree in Informatica - Systeem -en netwerkbeheer and have completed my first year, as well as more than half of my second and third years, in a professional Bachelors degree with a major in Applied Computer Science and a minor in Cyber Security. I am currently pursuing a Bachelors degree in Media and Creative Technology with a minor in IoT infrastructure engineering.
 
 My areas of expertise and interest include system and network infrastructure, virtualization, cloud infrastructure, and backend development, databases, and containerization. I have already gained a significant amount of knowledge and experience in these areas through my previous academic pursuits and am always seeking new opportunities to continue my growth and development.
 
