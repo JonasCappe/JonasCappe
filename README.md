@@ -9,8 +9,8 @@ I am a driven and motivated student with a passion for technology. I hold an Ass
 My areas of expertise and interest include system and network infrastructure, virtualization, cloud infrastructure, and backend development, databases, and containerization. I have already gained a significant amount of knowledge and experience in these areas through my previous academic pursuits and am always seeking new opportunities to continue my growth and development.
 
 ### Current study topics
-- PostgreSQL
-- ASP.NET Core
+- Next.js
+- TypeScript
 - Docker & kubernetes
 ### Knowledge
 <div>
