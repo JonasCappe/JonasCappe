@@ -1,10 +1,10 @@
 # Cap Jonas
 ## Hi there my name is Jonas
 ### Former student [@Howest](https://www.howest.be/en)
-
-I am a driven and motivated student with a passion for technology. I hold an Associate Degree in Informatica - Systeem -en netwerkbeheer and have completed my first year, as well as more than half of my second and third years, in a professional Bachelors degree with a major in Applied Computer Science and a minor in Cyber Security. I am currently pursuing a Bachelors degree in Media and Creative Technology with a minor in IoT infrastructure engineering.
-
-I have already gained a significant amount of knowledge and experience in these areas through my previous academic pursuits and I am always seeking new opportunities to continue my growth and development.
+- Multimedia and Creative Technologies - IoT Infrastructure Engineer (Credits: Cloud and Infrastructure)
+- Applied Computer Science - Cyber Security Professional (Credits: Object Oriented Development, Cyber Security, Web Development)
+- Systeem -en Netwerkbeheer (Credits Automation)
+- Associate Degree - Informatica - Netwerkbeheer
 
 ### Current study topics
 - ASP.NET Core Web APIs
