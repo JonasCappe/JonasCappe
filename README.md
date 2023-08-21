@@ -9,24 +9,41 @@ I am a driven and motivated student with a passion for technology. I hold an Ass
 My areas of expertise and interest include system and network infrastructure, virtualization, cloud infrastructure, and backend development, databases, and containerization. I have already gained a significant amount of knowledge and experience in these areas through my previous academic pursuits and am always seeking new opportunities to continue my growth and development.
 
 ### Current study topics
-- Next.js
-- TypeScript
+- ASP.NET Core Web APIs
+- Entity Framework Core
 - Docker & kubernetes
-### Knowledge
+  
+### Favorite Tools
+#### Backend
 <div>
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cisco.svg' alt='Cisco' height='50' title='Cisco CLI'>
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg' alt='Linux' height='50' title='Linux'>
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/windows.svg' alt='Windows' height='50' title='Microsoft Windows & Microsoft Windows Server'>
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg' alt='C#' height='50' title='C#'>
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='Java' height='50' title='Java'>
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg' alt='MySQL' height='50' title='MySQL'>
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftsqlserver.svg' alt='SQL' height='50' title='MicrosoftSQLServer'>
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftazure.svg' alt='Microsoft Azure (basics)' height='50' title='Microsoft Azure (basics)'>
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/amazonaws.svg' alt='Amazon Web Services (basics)' height='50' title='Amazon Web Services (basics)'>
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ansible.svg' alt='Anisble' height='50' title='Ansible'>
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg' alt='C#' height='50' title='C#'/>
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dot-net.svg' alt='dotnet' height='50' title='dotnet'/>
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg' alt='Typescript' height='50' title='Typescript/'>
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg' alt='MySQL' height='50' title='MySQL'/>
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftsqlserver.svg' alt='SQL' height='50' title='MicrosoftSQLServer'/>
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg' alt='MongoDb' height='50' title='MongoDb'/>
+</div>
+
+#### Frontend
+<div>
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/next-dot-js.svg' alt='NextJS' height='50' title='NextJS'/>
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tailwindcss.svg' alt='TailwindCSS' height='50' title='TailwindCSS'/>
+</div>
+  
+#### Deployment
+<div>
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftazure.svg' alt='Microsoft Azure' height='50' title='Microsoft Azure'>
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg' alt='vercel' height='50' title='docker'>
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/proxmox.svg' alt='Proxmox' height='50' title='Proxmox'>
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vercel.svg' alt='vercel' height='50' title='vercel'>
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/githubactions.svg' alt='githubactions' height='50' title='githubactions'>
+</div>
+
+#### Automation & Scripting
+<div>
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gnubash.svg' alt='Bash scripting' height='50' title='Bash scripting'>
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/powershell.svg' alt='Powershell' height='50' title='Powershell'>
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vmware.svg' alt='VMWare' height='50' title='VMWare'>
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ansible.svg' alt='Anisble' height='50' title='Ansible'>
 </div>
 
 ### You can also find me on:
