@@ -25,6 +25,7 @@
 #### Frontend
 <div>
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/next-dot-js.svg' alt='NextJS' height='50' title='NextJS'/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" alt="React" height='50' title='React'/>
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tailwindcss.svg' alt='TailwindCSS' height='50' title='TailwindCSS'/>
 </div>
   
