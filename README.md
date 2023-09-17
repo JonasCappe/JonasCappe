@@ -52,4 +52,4 @@
 ![GitHub stats](https://github-readme-stats-delta-topaz.vercel.app/api?username=JonasCappe&show_icons=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasCappe)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-delta-topaz.vercel.app/api/top-langs/?username=JonasCappe)](https://github.com/anuraghazra/github-readme-stats)
