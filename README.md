@@ -9,9 +9,9 @@
 <!--START_SECTION:activity-->
 
 ### Current study topics
-- ASP.NET Core Web APIs
-- Entity Framework Core
+- React Native
 - Docker & kubernetes
+- ASP.NET Core Web APIs
   
 ### Favorite Tools
 #### Backend
