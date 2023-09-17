@@ -6,7 +6,7 @@
 - Systeem -en Netwerkbeheer (Credits Automation)
 - Associate Degree - Informatica - Netwerkbeheer
 
-  <!--START_SECTION:activity-->
+<!--START_SECTION:activity-->
 
 ### Current study topics
 - ASP.NET Core Web APIs
