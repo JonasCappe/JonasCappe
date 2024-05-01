@@ -56,7 +56,3 @@ I work as a system/network engineer and also pursue Fullstack development on the
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='50'>](https://www.linkedin.com/in/jonas-cap/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='50'>](https://github.com/jonascap98)  
 
-![GitHub stats](https://github-readme-stats-delta-topaz.vercel.app/api?username=JonasCappe&show_icons=true)
-
-
-![Top Langs](https://github-readme-stats-delta-topaz.vercel.app/api/top-langs/?username=JonasCappe)
