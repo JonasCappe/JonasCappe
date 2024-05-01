@@ -1,6 +1,10 @@
 # Cap Jonas
 ## Hi there my name is Jonas
 I work as a system/network engineer and also pursue Fullstack development on the side through my own company.
+
+### System/network engineer [@VTSSN][https://vtssn.net/)
+### Fullstack developer & Co-founder [@SlopeWolf][https://slopewolf.com)
+
 ### Former student [@Howest](https://www.howest.be/en)
 - Multimedia and Creative Technologies - IoT Infrastructure Engineer (Credits: Cloud and Infrastructure)
 - Applied Computer Science - Cyber Security Professional (Credits: Object Oriented Development, Cyber Security, Web Development)
