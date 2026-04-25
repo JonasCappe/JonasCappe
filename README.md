@@ -1,5 +1,5 @@
 # Hi, I'm Jonas 👋  
-### Junior Azure / DevOps Engineer  
+### DevOps Engineer  
 
 DevOps-oriented engineer with hands-on experience in **Azure, Microsoft 365, Docker, and CI/CD (GitHub Actions)**.  
 Currently focusing on **Azure DevOps, Infrastructure as Code, and cloud architecture**.
@@ -45,22 +45,22 @@ Currently focusing on **Azure DevOps, Infrastructure as Code, and cloud architec
 ## 📂 Featured Projects (building & expanding)
 🚧 Currently working on DevOps-focused projects:
 - CI/CD pipelines with GitHub Actions
-- Dockerized applications
+- Dockerized applications (custom alpine images)
 - Preparing Azure deployment architectures
 
 ---
 
 ## 🎯 Goals
 - Become a specialized **Azure Cloud / DevOps Engineer**
-- Gain certifications (AZ-400, AZ-900)
+- Gain certifications (AZ-400)
 - Build production-ready cloud infrastructure projects
 
 ---
 
 ## 🌍 About Me
-- Based in Belgium 🇧🇪  
+- Currently based in Belgium 🇧🇪  
 - Open to relocate to Austria 🇦🇹  
-- English: Professional  
+- English: Good working proficiency
 - German: Learning (actively working towards B2)
 
 ---
