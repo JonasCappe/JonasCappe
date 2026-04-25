@@ -1,58 +1,69 @@
-# Cap Jonas
-## Hi there my name is Jonas
-I work as a system/network engineer and also pursue Fullstack development on the side through my own company.
+# Hi, I'm Jonas 👋  
+### Junior Azure / DevOps Engineer  
 
-- Infrastructure Engineer [@VTSSN](https://vtssn.net/)
-- Fullstack Engineer & Co-founder [@SlopeWolf](https://slopewolf.com)
+DevOps-oriented engineer with hands-on experience in **Azure, Microsoft 365, Docker, and CI/CD (GitHub Actions)**.  
+Currently focusing on **Azure DevOps, Infrastructure as Code, and cloud architecture**.
 
-### Former student [@Howest](https://www.howest.be/en)
-- Multimedia and Creative Technologies - IoT Infrastructure Engineer (Credits: Cloud and Infrastructure)
-- Applied Computer Science - Cyber Security Professional (Credits: Object Oriented Development, Cyber Security, Web Development)
-- Systeem -en Netwerkbeheer (Credits Automation)
-- Associate Degree - Informatica - Netwerkbeheer
+🚀 I enjoy building scalable systems, automating infrastructure, and improving deployment workflows.
 
-<!--START_SECTION:activity-->
+---
 
-### Current study topics
-- React Native
-- Docker & kubernetes
+## 🧠 Current Focus
+- Azure Cloud & Azure DevOps (AZ-400 in progress)
+- CI/CD pipelines & automation
+- Docker & containerized applications
+- Infrastructure as Code (Terraform / Bicep – learning)
+
+---
+
+## 💼 Experience
+- Infrastructure Engineer @VTSSN  
+- Founder / Fullstack Engineer @Cappio  
+- Co-founder / Fullstack Engineer @SlopeWolf  
+
+---
+
+## ⚙️ Tech Stack
+
+### ☁️ Cloud & Infrastructure
+- Microsoft Azure / Entra ID
+- Microsoft 365 / Active Directory
+- Networking & system administration
+
+### 🔁 DevOps & Automation
+- Docker (3+ years)
+- GitHub Actions (CI/CD pipelines)
+- Bash / Python / PowerShell scripting
+
+### 💻 Development
 - ASP.NET Core Web APIs
-  
-### Favorite Tools
-#### Backend
-<div>
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg' alt='C#' height='50' title='C#'/>
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dot-net.svg' alt='dotnet' height='50' title='dotnet'/>
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg' alt='Typescript' height='50' title='Typescript/'>
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg' alt='MySQL' height='50' title='MySQL'/>
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftsqlserver.svg' alt='SQL' height='50' title='MicrosoftSQLServer'/>
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg' alt='MongoDb' height='50' title='MongoDb'/>
-</div>
+- Next.js / TypeScript
+- REST APIs & system integrations
 
-#### Frontend
-<div>
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/next-dot-js.svg' alt='NextJS' height='50' title='NextJS'/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" alt="React & React Native" height='50' title='React & React Native'/>
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tailwindcss.svg' alt='TailwindCSS' height='50' title='TailwindCSS'/>
-</div>
-  
-#### Deployment
-<div>
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftazure.svg' alt='Microsoft Azure' height='50' title='Microsoft Azure'>
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg' alt='vercel' height='50' title='docker'>
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/proxmox.svg' alt='Proxmox' height='50' title='Proxmox'>
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vercel.svg' alt='vercel' height='50' title='vercel'>
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/githubactions.svg' alt='githubactions' height='50' title='githubactions'>
-</div>
+---
 
-#### Automation & Scripting
-<div>
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gnubash.svg' alt='Bash scripting' height='50' title='Bash scripting'>
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/powershell.svg' alt='Powershell' height='50' title='Powershell'>
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ansible.svg' alt='Anisble' height='50' title='Ansible'>
-</div>
+## 📂 Featured Projects (building & expanding)
+🚧 Currently working on DevOps-focused projects:
+- CI/CD pipelines with GitHub Actions
+- Dockerized applications
+- Preparing Azure deployment architectures
 
-### You can also find me on:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='50'>](https://www.linkedin.com/in/jonas-cap/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='50'>](https://github.com/jonascap98)  
+---
 
+## 🎯 Goals
+- Become a specialized **Azure Cloud / DevOps Engineer**
+- Gain certifications (AZ-400, AZ-900)
+- Build production-ready cloud infrastructure projects
+
+---
+
+## 🌍 About Me
+- Based in Belgium 🇧🇪  
+- Open to relocate to Austria 🇦🇹  
+- English: Professional  
+- German: Learning (actively working towards B2)
+
+---
+
+## 🔗 Connect with me
+[LinkedIn](https://www.linkedin.com/in/jonas-cap/)  
