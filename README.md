@@ -1,14 +1,14 @@
 # Hi, I'm Jonas 👋  
 ### DevOps Engineer  
 
-DevOps-oriented engineer with hands-on experience in **Azure, Microsoft 365, Docker, and CI/CD (GitHub Actions)**.  
-Currently focusing on **Azure DevOps, Infrastructure as Code, and cloud architecture**.
+DevOps-oriented engineer with hands-on experience in **AWS / Ayure, Microsoft 365, Docker, and CI/CD (GitHub Actions)**.  
+Currently focusing on **Azure DevOps, Infrastructure as Code**.
 
-🚀 I enjoy building scalable systems, automating infrastructure, and improving deployment workflows.
+I enjoy building scalable systems, automating infrastructure, and improving deployment workflows.
 
 ---
 
-## 🧠 Current Focus
+## Current Focus
 - Azure Cloud & Azure DevOps (AZ-400 in progress)
 - CI/CD pipelines & automation
 - Docker & containerized applications
@@ -16,37 +16,35 @@ Currently focusing on **Azure DevOps, Infrastructure as Code, and cloud architec
 
 ---
 
-## 💼 Experience
+## Experience
 - Infrastructure Engineer @VTSSN  
 - Founder / Fullstack Engineer @Cappio  
 - Co-founder / Fullstack Engineer @SlopeWolf  
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
-### ☁️ Cloud & Infrastructure
+### Cloud & Infrastructure
 - Microsoft Azure / Entra ID
 - Microsoft 365 / Active Directory
 - Networking & system administration
 
-### 🔁 DevOps & Automation
+### DevOps & Automation
 - Docker (3+ years)
 - GitHub Actions (CI/CD pipelines)
 - Bash / Python / PowerShell scripting
 
-### 💻 Development
+### Development
 - ASP.NET Core Web APIs
 - Next.js / TypeScript
 - REST APIs & system integrations
 
 ---
 
-## 📂 Featured Projects (building & expanding)
+## Featured Projects (building & expanding)
 🚧 Currently working on DevOps-focused projects:
-- CI/CD pipelines with GitHub Actions
-- Dockerized applications (custom alpine images)
-- Preparing Azure deployment architectures
+
 
 ---
 
