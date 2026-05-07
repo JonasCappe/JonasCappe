@@ -1,7 +1,7 @@
 # Hi, I'm Jonas 👋  
 ### DevOps Engineer  
 
-DevOps-oriented engineer with hands-on experience in **AWS / Ayure, Microsoft 365, Docker, and CI/CD (GitHub Actions)**.  
+DevOps-oriented engineer with hands-on experience in **AWS / Azure, Microsoft 365, Docker, and CI/CD (GitHub Actions)**.  
 Currently focusing on **Azure DevOps, Infrastructure as Code**.
 
 I enjoy building scalable systems, automating infrastructure, and improving deployment workflows.
